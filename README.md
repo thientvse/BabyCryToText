@@ -5,6 +5,9 @@ BabyCry is an android application to help parents understand the crying of babie
 They will use their smartphone to listen to the baby's crying and the application will analyze and give a result of what the baby needs (demanding food, changing diapers, needing hug, demanding to go to sleep).
 I will use the Tensorflow, Firebase to analyze baby cries. The application will also contribute a baby's cry to the corresponding need to improve accuracy.
 
+Cover letter: 
+* [BabyCryToText_CoverLetter](https://github.com/thientvse/BabyCryToText/blob/master/BabyCryToText_coverLetter.pdf)
+
 # Google's Support :
 For this project, I need :
 - Technology advice.
